@@ -37,4 +37,4 @@ b.	Visualization:https://www.nitrc.org/projects/mricrogl/
 a.	Word2vector:https://scikit-learn.org/stable/index.html
 b.	Representational Similarity Analysis:neuralRDMgene.m,RSA_logo_real.m
 4.	Figure4.
-a.	Correlation Analysis:corr_w2v_log0.m
+a.	Correlation Analysis:corr_w2v_logo.m
