@@ -22,8 +22,6 @@ b.	ROI_rsa_w2v_L_neg34.nii
 c.	ROI_rsa_logo_R_neg52.nii
 d.	ROI_rsa_logo_L_neg52.nii
 e.	ROI_rsa_logo_L_neg30.nii
-f.	RSA_w2vReal_RW.mat
-g.	RSA_logo_RW.mat
 5.	Mask used in our study
 a.	gfMask.mat
 b.	rgrayTPM_mask.nii
@@ -37,6 +35,6 @@ a.	Activation Analysis:https://www.fil.ion.ucl.ac.uk/spm/
 b.	Visualization:https://www.nitrc.org/projects/mricrogl/
 3.	Figure3.
 a.	Word2vector:https://scikit-learn.org/stable/index.html
-b.	Representational Similarity Analysis:rsagene.m
+b.	Representational Similarity Analysis:neuralRDMgene.m,RSA_logo_real.m
 4.	Figure4.
 a.	Correlation Analysis:corr_w2v_sem.m
